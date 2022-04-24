@@ -1,0 +1,26 @@
+1. Leer por teclado un numero en base binaria de 4 digitos, cada digito debe ser leido en una variable independiente, y se debe convertir
+el mismo a su equivalente en base decimal
+
+2. Realizar un programa para calcular el volumen de un cono, segun la siguiente formula V = pi* R ^ 2 * H / 3. Introduciendo por teclado
+el radio y la altura del mismo, debiendo ser el radio y la altura valores mayores a cero
+
+3. Realice un programa que lea por teclado 4 numeros enteros, calcula la suma de los numeros pares e impares por separado
+
+4. En un hospital existen tres areas: Ginecologia, Pediatria, Traumatologia. El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
+    Area            Porcentaje del presupuesto
+    Ginecologia       40%
+    Traumatologia     30%
+    Pediatria         30%
+    
+Obtener la cantidad de dinero que recibira cada area, para cualquier monto presupuestal
+
+5. Calcular el sueldo quincenal de un empleado, tomando en cuenta los siguientes parametros:
+    - Bs 450 por quincena
+    - Bono de 10% de profesionalizacion a los que tienen titulo universitario
+    - Bono quincenal de transporte de Bs 70
+    - Bono de alimentacion de Bs 5 por dia laborado
+    - Deducciones:
+      - 2% Seguro colectivo
+      - 1% Paro forzoso
+      - 2% Seguro social
+      - 2% Caja de ahorro
