@@ -19,3 +19,7 @@ def minor_digit(n):
 def remove_digit(d):
     #Algoritmo para eliminar un digito de un numero dado
     pass
+
+def print_last_digit(num):
+    print(last_digit(num))
+    return 0
