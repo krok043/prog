@@ -3,7 +3,6 @@ n2 = 20
 
 palabra = 'Texto'
 
-
 if 'a' in palabra or n1 > n2:
     print('Si esta')
 
