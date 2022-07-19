@@ -1,5 +1,7 @@
 x = int(input())
 
+res = ""
+
 while(x<100):
     x = int(input())
 while(x!=0):
@@ -13,5 +15,7 @@ while(x!=0):
         if(d==d1):
             c=c+1
         if(c>=2):
-            print(d)
-            break
+            if str(d) not in res:
+                res = res + str(d)
+                print(d, end=',')
+                break
