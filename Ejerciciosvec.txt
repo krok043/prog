@@ -1,0 +1,23 @@
+1. Crea un array de 10 posiciones de números con valores pedidos por teclado.
+ Muestra por consola el indice y el valor al que corresponde.
+ Haz dos métodos, uno para rellenar valores y otro para mostrar.
+
+2. Crea un array de números donde le indicamos por teclado el tamaño del array, 
+rellenaremos el array con números aleatorios entre 0 y 9, al 
+final muestra por pantalla el valor de cada posición y la suma 
+de todos los valores.
+
+3. Crea un array de números de un tamaño pasado por teclado, el array contendrá números aleatorios primos entre los números deseados, por último nos indica cual es el mayor de todos.
+
+4. Crea un array de números de 100 posiciones, que contendrá los números del 1 al 100. Obtén la suma de todos ellos y la media.
+
+5. Crea un array de caracteres que contenga de la ‘A’ a la ‘Z’ (solo las mayúsculas). Después, ve pidiendo posiciones del array por teclado y si la posicion es correcta, se añadira a una cadena que se mostrara al final, se dejará de insertar cuando se introduzca un -1.
+
+Por ejemplo, si escribo los siguientes numeros
+0 //Añadira la ‘A’
+5 //Añadira la ‘F’
+25 //Añadira la ‘Z’
+50 //Error, inserte otro numero
+-1 //fin
+
+Cadena resultante: AFZ
